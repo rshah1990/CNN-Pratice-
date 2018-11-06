@@ -1,2 +1,2 @@
 # Images
-Working with Images
+Convolution Neural Network Pratice with MINST data set
